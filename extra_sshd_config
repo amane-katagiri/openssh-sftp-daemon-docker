@@ -1,0 +1,3 @@
+Match User sftp-*
+  ChrootDirectory /data
+  ForceCommand internal-sftp
